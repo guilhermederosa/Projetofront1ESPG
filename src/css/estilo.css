@@ -1,0 +1,7 @@
+*{
+    margin:0;
+    padding:20px;
+}
+body{
+    background-image:linear-gradient(to right, aqua,blue,pink);
+}
